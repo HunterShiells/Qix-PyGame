@@ -1,0 +1,1 @@
+The game will take about 1 to 2 seconds to load on startup due to music files loading. 
